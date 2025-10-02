@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Brayden Thorne
+# DATE: 2025-10-2
+# BRIEF DESCRIPTION:  will convert grades
 
 
 
@@ -86,7 +86,7 @@ D
    doing this lab?
 
 
-
+make sure your numbers like 101 match A plus
 
 
 
